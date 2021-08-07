@@ -1,0 +1,10 @@
+seaborn
+dash
+dash_bootstrap_components
+dash_core_components
+dash_html_components
+pandas
+plotly
+sklearn
+google_trans_new
+pyjokes
